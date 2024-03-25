@@ -38,9 +38,9 @@ CREATE TABLE `queue` (
 --
 
 INSERT INTO `queue` (`registro`, `nome`, `status`) VALUES
-(1, 'Marcos Gomes', 1),
-(2, 'Claudia Gomes', 1),
-(4, 'Rebeca Gomes', 0);
+(1, 'George Ferreira', 1),
+(2, 'Claudia Silva', 1),
+(4, 'Guilherme Barros', 0);
 
 -- --------------------------------------------------------
 
