@@ -11,7 +11,7 @@
     <body>
         <header>
             <div class="container">
-                <a href="?pagina=home"><img src="https://static1.squarespace.com/static/54884604e4b08e455df8d6ff/54970efce4b05c076b7f0c0d/58dd4af7b3db2b59d248234d/1564305907754/kiwi-sized.png?format=1500w" title="Flow" width="150" height="150"></a>
+                <a href="?pagina=chamar"><img src="https://static1.squarespace.com/static/54884604e4b08e455df8d6ff/54970efce4b05c076b7f0c0d/58dd4af7b3db2b59d248234d/1564305907754/kiwi-sized.png?format=1500w" title="Flow" width="150" height="150"></a>
                 <div id="menu">
                     <?php if (isset($_SESSION['login'])) { ?>
                         <a href="?pagina=chamar">Chamar Cliente</a>
